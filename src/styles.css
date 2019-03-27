@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+.inlineStyle {
+   height: 100px;
+   width: 150px;
+   display: inline-block;
+}
+
+a {
+   display: block;
+   margin-top: 25px;
+}
