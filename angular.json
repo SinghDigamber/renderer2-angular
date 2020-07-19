@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "renderer2-angular"
+  "defaultProject": "renderer2-angular",
+  "cli": {
+    "analytics": false
+  }
 }
